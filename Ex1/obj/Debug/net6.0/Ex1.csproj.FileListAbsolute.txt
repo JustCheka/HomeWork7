@@ -1,0 +1,15 @@
+E:\2023\Geekbrains\Программирование\Dz7\Ex1\bin\Debug\net6.0\Ex1.exe
+E:\2023\Geekbrains\Программирование\Dz7\Ex1\bin\Debug\net6.0\Ex1.deps.json
+E:\2023\Geekbrains\Программирование\Dz7\Ex1\bin\Debug\net6.0\Ex1.runtimeconfig.json
+E:\2023\Geekbrains\Программирование\Dz7\Ex1\bin\Debug\net6.0\Ex1.dll
+E:\2023\Geekbrains\Программирование\Dz7\Ex1\bin\Debug\net6.0\Ex1.pdb
+E:\2023\Geekbrains\Программирование\Dz7\Ex1\obj\Debug\net6.0\Ex1.csproj.AssemblyReference.cache
+E:\2023\Geekbrains\Программирование\Dz7\Ex1\obj\Debug\net6.0\Ex1.GeneratedMSBuildEditorConfig.editorconfig
+E:\2023\Geekbrains\Программирование\Dz7\Ex1\obj\Debug\net6.0\Ex1.AssemblyInfoInputs.cache
+E:\2023\Geekbrains\Программирование\Dz7\Ex1\obj\Debug\net6.0\Ex1.AssemblyInfo.cs
+E:\2023\Geekbrains\Программирование\Dz7\Ex1\obj\Debug\net6.0\Ex1.csproj.CoreCompileInputs.cache
+E:\2023\Geekbrains\Программирование\Dz7\Ex1\obj\Debug\net6.0\Ex1.dll
+E:\2023\Geekbrains\Программирование\Dz7\Ex1\obj\Debug\net6.0\refint\Ex1.dll
+E:\2023\Geekbrains\Программирование\Dz7\Ex1\obj\Debug\net6.0\Ex1.pdb
+E:\2023\Geekbrains\Программирование\Dz7\Ex1\obj\Debug\net6.0\Ex1.genruntimeconfig.cache
+E:\2023\Geekbrains\Программирование\Dz7\Ex1\obj\Debug\net6.0\ref\Ex1.dll
